@@ -21,19 +21,19 @@ I am a Data Enthusiast with experience in Python, SQL, Power BI, and AWS. I thri
 
 💡 **What I Do**
 
-📊 Data Analytics & Visualization – Creating interactive dashboards using Power BI & Tableau
+📊 **Data Analytics & Visualization** – Creating interactive dashboards using Power BI & Tableau
 
-🤖 AI & Machine Learning – Exploring predictive analysis and automation
+🤖 **AI & Machine Learning** – Exploring predictive analysis and automation
 
-☁️ Cloud Technologies – Working with AWS (IAM, EC2, Redshift, Lambda) & Azure Databricks
+☁️ **Cloud Technologies** – Working with AWS (IAM, EC2, Redshift, Lambda) & Azure Databricks
 
 📈 **Experience Highlights**
 
-Intern Pro. AI – Built data frameworks that improved efficiency and boosted revenue
+**.**Intern Pro. AI – Built data frameworks that improved efficiency and boosted revenue
 
-Arizona State University – Managed SQL databases & developed 50+ BI dashboards
+**.**Arizona State University – Managed SQL databases & developed 50+ BI dashboards
 
-Tata Consultancy Services – Created 100+ Tableau dashboards for global markets
+**.**Tata Consultancy Services – Created 100+ Tableau dashboards for global markets
 
 🌱 **Projects**
 
