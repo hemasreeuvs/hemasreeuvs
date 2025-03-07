@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Hemasree Uppaluri 
+## Hello 👋 I'm Hemasree Uppaluri 
 
 <!--
 **hemasreeuvs/hemasreeuvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
