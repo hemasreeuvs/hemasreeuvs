@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 🔍 **About Me**
-I am a Data  with Data Enthusiast in Python, SQL , AI and Cloud Technologies. Passionate about data-driven insights, AI, and building real-world projects that enhance decision-making.
+
+I am a Data Enthusiast with experience in Python, SQL, Power BI, and AWS. I thrive to  transform raw data into meaningful insights using analytics, AI, and visualization.
 
 💡 **What I Do**
 
@@ -40,11 +41,16 @@ Stock Market Real-Time Analysis – ETL pipeline for live stock market insights
 
 Student Enrollment System – Predictive modeling for student enrollment trends
 
-COVID-19 Analysis Dashboard – Real-time visualization & trend analysis
+COVID-19 Analysis Dashboard – Real-time visualization & trend analysis and many more
 
 📜 **Certifications & Achievements**
+
 ✔️ AWS Solutions Architect Associate
 
 ✔️ Machine Learning & Deep Learning (Coursera)
 
 ✔️ 2x "On the Spot Award" at Tata Consultancy Services
+
+📬 **Connect with Me**
+
+[LinkedIn](https://www.linkedin.com/in/uvshema) | [GitHub](https://github.com/hemasreeuvs)
