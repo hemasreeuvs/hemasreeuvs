@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I am a Data Enthusiast with experience in Python, SQL, Power BI, and AWS. I thrive to  transform raw data into meaningful insights using analytics, AI, and visualization.
 
+---
+
 💡 **What I Do**
 
 📊 **Data Analytics & Visualization** – Creating interactive dashboards using Power BI & Tableau
@@ -26,6 +28,8 @@ I am a Data Enthusiast with experience in Python, SQL, Power BI, and AWS. I thri
 🤖 **AI & Machine Learning** – Exploring predictive analysis and automation
 
 ☁️ **Cloud Technologies** – Working with AWS (IAM, EC2, Redshift, Lambda) & Azure Databricks
+
+---
 
 📈 **Experience Highlights**
 
@@ -35,6 +39,8 @@ I am a Data Enthusiast with experience in Python, SQL, Power BI, and AWS. I thri
 
  - Tata Consultancy Services – Created 100+ Tableau dashboards for global markets
 
+   ---
+
 🌱 **Projects**
 
  - Stock Market Real-Time Analysis – ETL pipeline for live stock market insights
@@ -43,6 +49,8 @@ I am a Data Enthusiast with experience in Python, SQL, Power BI, and AWS. I thri
 
  - COVID-19 Analysis Dashboard – Real-time visualization & trend analysis and many more
 
+   ---
+
 📜 **Certifications & Achievements**
 
 ✔️ AWS Solutions Architect Associate
@@ -50,6 +58,8 @@ I am a Data Enthusiast with experience in Python, SQL, Power BI, and AWS. I thri
 ✔️ Machine Learning & Deep Learning (Coursera)
 
 ✔️ 2x "On the Spot Award" at Tata Consultancy Services
+
+---
 
 📬 **Connect with Me**
 
