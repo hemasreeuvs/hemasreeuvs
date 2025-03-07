@@ -37,11 +37,11 @@ I am a Data Enthusiast with experience in Python, SQL, Power BI, and AWS. I thri
 
 🌱 **Projects**
 
-Stock Market Real-Time Analysis – ETL pipeline for live stock market insights
+ - Stock Market Real-Time Analysis – ETL pipeline for live stock market insights
 
-Student Enrollment System – Predictive modeling for student enrollment trends
+ - Student Enrollment System – Predictive modeling for student enrollment trends
 
-COVID-19 Analysis Dashboard – Real-time visualization & trend analysis and many more
+ - COVID-19 Analysis Dashboard – Real-time visualization & trend analysis and many more
 
 📜 **Certifications & Achievements**
 
