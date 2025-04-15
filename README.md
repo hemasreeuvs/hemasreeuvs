@@ -18,6 +18,7 @@ Here are some ideas to get you started:
  **About Me**
 
 As a data enthusiast with a solid grasp of Python, SQL, Power BI, and AWS, I specialize in turning messy, complex datasets into clear, strategic insights. I enjoy bridging the gap between data and decision-making—whether that’s through building automated analytics pipelines, crafting AI-driven solutions, or designing dashboards that speak for themselves.
+
  ---
 
  **What I Do**
