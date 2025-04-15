@@ -20,44 +20,34 @@ Here are some ideas to get you started:
 As a data enthusiast with a solid grasp of Python, SQL, Power BI, and AWS, I specialize in turning messy, complex datasets into clear, strategic insights. I enjoy bridging the gap between data and decision-making—whether that’s through building automated analytics pipelines, crafting AI-driven solutions, or designing dashboards that speak for themselves.
 
  ---
+ 
+**What I Bring**
 
- **What I Do**
+**Data-Driven SQL**: Crafting optimized, scalable queries that answer real business questions—built to perform across millions of records.
 
-**Data Analytics & Visualization** – Creating interactive dashboards using Power BI & Tableau
+**Strategic Dashboards**: Power BI & Tableau dashboards built for action, not just display—focused on user experience, interactivity, and clarity.
 
-**AI & Machine Learning** – Exploring predictive analysis and automation
+**Production-Ready Python**: Writing clean, modular code for automation, pipelines, and data apps using Pandas, NumPy, Requests, and Plotly.
 
- **Cloud Technologies** – Working with AWS (IAM, EC2, Redshift, Lambda) & Azure Databricks
+**Practical ML**: Building explainable ML models for forecasting, segmentation, and classification—designed to integrate with real workflows.
 
- ---
-
-📈 **Experience Highlights**
-
- - Intern Pro. AI – Built data frameworks that improved efficiency and boosted revenue
-
- - Arizona State University – Managed SQL databases & developed 50+ BI dashboards
-
- - Tata Consultancy Services – Created 100+ Tableau dashboards for global markets
-
- ---
-
-🌱 **Projects**
-
- - Stock Market Real-Time Analysis – ETL pipeline for live stock market insights
-
- - Student Enrollment System – Predictive modeling for student enrollment trends
-
- - COVID-19 Analysis Dashboard – Real-time visualization & trend analysis and many more
+**Cloud-Centric Development**: Deploying scalable data solutions using AWS (Redshift, Lambda, IAM) and Azure Databricks for end-to-end analytics
 
 ---
 
-📜 **Certifications & Achievements**
+**Current Focus**
 
-✔️ AWS Solutions Architect Associate
+**Sentiment Analysis with NLP**
 
-✔️ Machine Learning & Deep Learning (Coursera)
+Exploring how natural language processing can uncover emotions and opinions in text. I'm building models to analyze public sentiment on current affairs, social trends, and user feedback.
 
-✔️ 2x "On the Spot Award" at Tata Consultancy Services
+**Data-Driven Storytelling**
+
+Writing blogs that combine data, narrative, and visualization to make complex topics accessible. Topics range from media coverage patterns to behavioral insights.
+
+**Portfolio in Progress**
+
+Currently developing a collection of projects that merge NLP, data visualization, and real-world context—designed to showcase practical, insightful data applications.
 
 ---
 
