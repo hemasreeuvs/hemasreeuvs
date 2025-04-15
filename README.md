@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔍 **About Me**
+ **About Me**
 
 As a data enthusiast with a solid grasp of Python, SQL, Power BI, and AWS, I specialize in turning messy, complex datasets into clear, strategic insights. I enjoy bridging the gap between data and decision-making—whether that’s through building automated analytics pipelines, crafting AI-driven solutions, or designing dashboards that speak for themselves.
  ---
 
-💡 **What I Do**
+ **What I Do**
 
-📊 **Data Analytics & Visualization** – Creating interactive dashboards using Power BI & Tableau
+**Data Analytics & Visualization** – Creating interactive dashboards using Power BI & Tableau
 
-🤖 **AI & Machine Learning** – Exploring predictive analysis and automation
+**AI & Machine Learning** – Exploring predictive analysis and automation
 
-☁️ **Cloud Technologies** – Working with AWS (IAM, EC2, Redshift, Lambda) & Azure Databricks
+ **Cloud Technologies** – Working with AWS (IAM, EC2, Redshift, Lambda) & Azure Databricks
 
  ---
 
