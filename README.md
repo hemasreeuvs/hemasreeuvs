@@ -1,4 +1,4 @@
-## Hello 👋 I'm Hema!!
+## Hello  I'm Hema!!
 
 <!--
 **hemasreeuvs/hemasreeuvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,43 +13,62 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
- **About Me**
-
-As a data enthusiast with a solid grasp of Python, SQL, Power BI, and AWS, I specialize in turning messy, complex datasets into clear, strategic insights. I enjoy bridging the gap between data and decision-making—whether that’s through building automated analytics pipelines, crafting AI-driven solutions, or designing dashboards that speak for themselves.
-
- ---
- 
-**What I Bring**
-
-**Data-Driven SQL**: Crafting optimized, scalable queries that answer real business questions—built to perform across millions of records.
-
-**Strategic Dashboards**: Power BI & Tableau dashboards built for action, not just display—focused on user experience, interactivity, and clarity.
-
-**Production-Ready Python**: Writing clean, modular code for automation, pipelines, and data apps using Pandas, NumPy, Requests, and Plotly.
-
-**Practical ML**: Building explainable ML models for forecasting, segmentation, and classification—designed to integrate with real workflows.
-
-**Cloud-Centric Development**: Deploying scalable data solutions using AWS (Redshift, Lambda, IAM) and Azure Databricks for end-to-end analytics
+I'm a **Data & AI enthusiast** transitioning deeper into **AI engineering and problem solving**.  
+My focus is on building practical AI applications, strengthening algorithms through LeetCode, and combining data engineering with modern LLM workflows.
 
 ---
 
-**Current Focus**
+## 🚀 Current Focus
 
-**Sentiment Analysis with NLP**
-
-Exploring how natural language processing can uncover emotions and opinions in text. I'm building models to analyze public sentiment on current affairs, social trends, and user feedback.
-
-**Data-Driven Storytelling**
-
-Writing blogs that combine data, narrative, and visualization to make complex topics accessible. Topics range from media coverage patterns to behavioral insights.
-
-**Portfolio in Progress**
-
-Currently developing a collection of projects that merge NLP, data visualization, and real-world context—designed to showcase practical, insightful data applications.
+- 🤖 Building **AI & LLM applications** using LangChain and RAG pipelines  
+- 🧠 Practicing **Data Structures & Algorithms on LeetCode**  
+- 📊 Working with **Python, SQL, and analytics tools** to extract insights from data  
+- ☁️ Exploring **cloud-based data solutions on AWS**
 
 ---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python  
+- SQL  
+
+**AI / LLM**
+- LangChain  
+- OpenAI APIs  
+- RAG Pipelines  
+- Vector Databases  
+
+**Data & Visualization**
+- Pandas  
+- NumPy  
+- Power BI  
+- Tableau  
+
+**Cloud**
+- AWS (S3, Lambda, Redshift)
+
+---
+
+## 📂 What You'll Find in This GitHub
+
+- AI & LLM projects  
+- LangChain experiments  
+- End-to-end data projects  
+- LeetCode problem solutions  
+- Data analytics and visualization work  
+
+---
+
+## 🎯 Goal
+
+To build **scalable AI-powered applications and data solutions** while continuously improving problem-solving and system design skills.
+
+---
+
+⭐ Always learning, building, and exploring new ideas in **AI, data, and software development**.
+
 
 📬 **Connect with Me**
 
